@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import TodoListCreateAPIView, TodoDetailAPIView
+from .views import TodoListCreateAPIView,TodoDetailAPIView
 
 urlpatterns = [
     # API endpoints
